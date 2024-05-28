@@ -1,0 +1,24 @@
+{
+    "name": "sofia/appsalon",
+    "description": "Proyecto PHP, MVC, Sass",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "MVC\\": "./",
+            "Controllers\\" : "./controllers",
+            "Model\\" : "./models",
+            "Classes\\" : "./classes"
+            
+        }
+    },
+    "authors": [
+        {
+            "name": "Sofia Mondaca",
+            "email": "scmondaca0425@hotmail.com"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.9",
+        "vlucas/phpdotenv": "^5.6"
+    }
+}

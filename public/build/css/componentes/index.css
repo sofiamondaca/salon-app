@@ -1,0 +1,2 @@
+.form{width:100%}.field{display:flex;margin-bottom:2rem;align-items:center}.field label{flex:0 0 10rem}.field input{flex:1;border:none;padding:1.25rem}.boton{background-color:#0da6f3;padding:1.5rem 4rem;color:#fff;font-size:2rem;font-weight:400;display:inline-block;font-weight:700;border:none;transition-property:background-color;transition-duration:.3s;text-align:center;display:block;width:100%;margin:5rem 0}@media (min-width:768px){.boton{width:auto}}.boton:hover{background-color:#0a85c3;cursor:pointer}
+/*# sourceMappingURL=index.css.map */
